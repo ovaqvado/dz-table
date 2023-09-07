@@ -1,7 +1,6 @@
 table {
     border-collapse: collapse;
     border: 1px solid black;
-
 }
 
 td {
@@ -12,4 +11,29 @@ td {
 
 .brid {
     font-weight: 900;
+}
+
+.bri {
+    font-size: 0.8rem;
+}
+
+.re {
+    background: yellow;
+    font-size: 0.8rem;
+}
+
+.ri {
+    background: aqua;
+}
+
+.ra {
+    background: red;
+}
+
+.ro{
+    background: greenyellow;
+}
+
+.ru {
+    background: pink;
 }
